@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Прогрессия\Прогрессия\bin\Debug\Прогрессия.exe.config
+C:\Users\User\source\repos\Прогрессия\Прогрессия\bin\Debug\Прогрессия.exe
+C:\Users\User\source\repos\Прогрессия\Прогрессия\bin\Debug\Прогрессия.pdb
+C:\Users\User\source\repos\Прогрессия\Прогрессия\obj\Debug\Прогрессия.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Прогрессия\Прогрессия\obj\Debug\Прогрессия.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Прогрессия\Прогрессия\obj\Debug\Прогрессия.exe
+C:\Users\User\source\repos\Прогрессия\Прогрессия\obj\Debug\Прогрессия.pdb
